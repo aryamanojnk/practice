@@ -1,0 +1,12 @@
+# Logs and databases
+*.log
+*.sqlite
+
+# System and IDE files
+.DS_Store
+*.swp
+
+# Credentials and keys
+.ssh/
+.aws/
+.azure/
